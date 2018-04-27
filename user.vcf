@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Chicken;Frittata;;;
-FN: Frittata  Chicken 
-ORG:Chicken Finacial;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:chickn@chickenfinancial.com
+N:Isabelle;Diokno;;;
+FN: Diokno Isabelle 
+ORG:Lenger Finacial;
+TITLE:Intern
+EMAIL;type=INTERNET;type=WORK;type=pref:isabelle@lengerfinancial.com
 TEL;type=WORK;type=VOICE:+904 482 3647
-item1.ADR;type=WORK;type=pref:;;N Laura Street\Jacksonville\, Suite 801;;;100;Florida
+item1.ADR;type=WORK;type=pref:;;100 N Laura Street\Jacksonville\, Suite 801;;; ;Florida
 item1.X-ABADR:sg
 item2.URL;type=pref:lengerfinancial.com
 item2.X-ABLabel:_$!<HomePage>!$_
