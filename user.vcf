@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Isabelle;Diokno;;;
-FN: Diokno Isabelle 
-ORG:Lenger Finacial;
-TITLE:Intern
-EMAIL;type=INTERNET;type=WORK;type=pref:isabelle@lengerfinancial.com
+N:Ellebasi;Onkiod;;;
+FN: Onkiod Ellebasi
+ORG:Laicnanif regneL;
+TITLE:Demo
+EMAIL;type=INTERNET;type=WORK;type=pref:ellebasi@laicnanifregnel.com
 TEL;type=WORK;type=VOICE:+904 482 3647
 item1.ADR;type=WORK;type=pref:;;100 N Laura Street\Jacksonville\, Suite 801;;; ;Florida
 item1.X-ABADR:sg
-item2.URL;type=pref:lengerfinancial.com
+item2.URL;type=pref:laicnanifregnel.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
