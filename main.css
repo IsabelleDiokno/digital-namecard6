@@ -4,7 +4,6 @@ body {
   width: 100%;
   margin: 0;
   justify-content: center;
-  background: url(skyline1.jpg) blue;
 }
 
 section {
@@ -136,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-blue {
-	background-color: #003d8a;
+	bbackground: url(skyline1.jpg) #222222;
 }
 
 .bg-color-white {
