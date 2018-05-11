@@ -4,7 +4,6 @@ body {
   width: 100%;
   margin: 0;
   justify-content: center;
-  background: url(skyline1.jpg) white;
 }
 
 section {
@@ -31,11 +30,6 @@ img {
     height: auto;
     width: auto;
     object-fit: contain;
-}
-img.back-g {
-    	height: 100%;
-	width: 100%
-	background: url(skyline1.jpg) white;
 }
 img.profile-pic {
 	height: 30%;
