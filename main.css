@@ -32,7 +32,11 @@ img {
     width: auto;
     object-fit: contain;
 }
-
+img.back-g {
+    	height: 100%;
+	width: 100%
+	background: url(skyline1.jpg) white;
+}
 img.profile-pic {
 	height: 30%;
 	width: 30%;
@@ -183,14 +187,14 @@ img.profile-pic {
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 70%;
-    width: 70%;
+    height: 60%;
+    width: 60%;
   }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 70%;
-    width: 70%;
+    height: 80%;
+    width: 80%;
   }
 }
