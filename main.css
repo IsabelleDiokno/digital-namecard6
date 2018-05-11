@@ -124,6 +124,9 @@ img.profile-pic {
 .banner {
 	height: 30%;
 	background-image: url("skyline2.jpg");
+	background-repeat: no-repeat;
+    	background-position: center top;
+    	background-attachment: fixed;
 }
 
 .primary-info {
