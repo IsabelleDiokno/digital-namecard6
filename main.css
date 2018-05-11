@@ -123,6 +123,7 @@ img.profile-pic {
 
 .banner {
 	height: 30%;
+	bakcground-image: url("skyline1.jpg");
 }
 
 .primary-info {
@@ -134,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-blue {
-	background: #ffffff url("skyline2.jpg") no-repeat right top;
+	background-color: #003d8a;
 }
 
 .bg-color-white {
