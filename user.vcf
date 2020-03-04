@@ -2,9 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Isabelle;Diokno;;;
-FN: Isabelle Diokon
-ORG:Laicnanif regneL;
-TITLE:Demo
+FN: Isabelle Diokno
+ORG:;
+TITLE:
 EMAIL;type=INTERNET;type=WORK;type=pref:idiokno1@gmail.com
 TEL;type=WORK;type=VOICE:+904 482 3647
 item1.ADR;type=WORK;type=pref:;;100 N Laura Street\Jacksonville\, Suite 801;;; ;Florida
